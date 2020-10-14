@@ -1,0 +1,42 @@
+﻿
+#form1 {
+    font-family: Poppins;
+}
+
+body {
+    margin: 0;
+    padding-top: 150px;
+    font-family: Poppins;
+}
+
+.loginButton {
+    margin-top: 10px;
+    border: 1px solid black;
+    border-radius: 20px;
+    background-color: #507CD1;
+    color: white;
+    font-family: Poppins;
+    font-size: 20px;
+    width: 20%;
+    margin-bottom: 50px;
+    cursor: pointer;
+}
+
+.loginButton:hover {
+    color: #507CD1;
+    background-color: white;
+}
+
+.logoutButton {
+    border: 1px solid black;
+    border-radius: 20px;
+    padding: 6px;
+    background-color: #507CD1;
+    color: white;
+    text-decoration: none;
+}
+
+.logoutButton:hover {
+    color: #507CD1;
+    background-color: white;
+}
